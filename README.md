@@ -76,4 +76,4 @@ If **`ButtonState`** is not 1 (indicating that the system is deactivated):
 - The loop is paused for 1 second.
 
 ## How to connect
-You can find out how to connect all of the materials used in this project [HERE](https://github.com/magdalenabegic/UltrasonicDistanceControl/spajanje.png).
+You can find out how to connect all of the materials used in this project [HERE](https://github.com/magdalenabegic/UltrasonicDistanceControl/blob/main/spajanje.png).
