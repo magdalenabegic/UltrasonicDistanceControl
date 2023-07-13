@@ -74,3 +74,6 @@ If **`ButtonState`** is not 1 (indicating that the system is deactivated):
 - The **`granica`** and **`upperBorder`** values are reset to 0.
 - The system state, **`upperBorder`**, and **`granica`** are printed.
 - The loop is paused for 1 second.
+
+## How to connect
+You can find out how to connect all of the materials used in this project [HERE](https://github.com/magdalenabegic/UltrasonicDistanceControl/spajanje.png).
