@@ -1,7 +1,7 @@
 # UltrasonicDistanceControl
 Raspberry Pi-based automation system that integrates ultrasonic distance sensing and light detection
 
-Materials used for this project: Raspberry Pi 4, 6 x LEDs, 4 x buttons, 1 x photocell, 1 x 1 μF capacitor, 1 x ultrasonic sensor, 1 x 1 kΩ resistor, 1 x 2 kΩ resistor.
+Materials used for this project: Raspberry Pi 4, 6 x LEDs, 4 x buttons, 1 x photocell, 1 x 1 μF capacitor, 1 x ultrasonic sensor, 1 x 1 kΩ resistor, 1 x 2 kΩ resistor, 6 x 330 Ω resistor.
 
 ## Project goal & details
 
